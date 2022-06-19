@@ -1,0 +1,27 @@
+.main-content {
+    background-color: #282d35;
+    color: white;
+    padding: 26px;
+    min-height: 400px;
+    position: relative;
+}
+
+.main-content h1 {
+    font-weight: bold;
+}
+
+.main-content li::marker {
+    color: #61dafb;
+    font-size: 25px;
+}
+
+.main-content li {
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+.main-content .bg-image {
+    position: absolute;
+    right: 0;
+    top: 70px;
+}

@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px;
+    background-color: #21222a;
+    color: white;
+}
+
+.brand {
+    color: #61dafb;
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.nav h4 {
+    font: 600;
+}
